@@ -10,7 +10,7 @@ To test this, run the following:
 npx vitest --inspect-brk --threads false run demo
 ```
 
-And connect a debugger.
+And connect a debugger. See the [Node documentation on debugger clients](https://nodejs.org/en/docs/guides/debugging-getting-started/#inspector-clients) for more details on this process.
 
 ## Expected
 
